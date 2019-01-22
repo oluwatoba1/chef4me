@@ -1,0 +1,35 @@
+Tasks
+
+User
+1.  Order for a chef
+2.  Ask the user to fill in the necessary information
+3.  Collate data from the details and display cost
+4.  Filter chefs based on proximity and select at random
+5.  Assign the selected chef to the user
+6.  User gives ratings after session ends
+
+Chef
+1.  Chef receives a notification for an order to accept or reject
+2.  Chef records activities every 30 minutes while in session
+3.  Chef ends session and gives rating
+
+
+Order questions
+1.  What is the occasion? a. Celebration b. Personal
+2.  How many persons do you want your chef to cook for?
+3.  Do you have the ingredients down? a.Yes, I do   b. No, the chef should handle that (This would incur extra costs)
+4.  What meal(s) do you want to be prepared?
+5.  Do you want your meal delivered or prepared under your roof?
+
+Case where there are no ingredients
+1.  The customer waits for the chef to create the BOI (Bill Of Ingredients)
+2.  The chef creates the BOI and submits
+3.  The customer recieves just the total cost
+4.  The customer confirms or rejects the order (the BOI being created by the Chef means the chef accepts the order)
+
+N.B
+1.  Users' location must be turned on
+2.  Chef must be online
+3.  Both parties must accept the order for any activity to go on
+
+
